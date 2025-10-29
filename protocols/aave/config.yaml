@@ -6,6 +6,54 @@ description: >-
   participate as suppliers or borrowers
 url: https://app.aave.com/
 metadata:
-  pt: []
+  pt:
+    - chainId: 1
+      address: '0x62C6E813b9589C3631Ba0Cdb013acdB8544038B7'
+      subtitle: USDC
+      integrationUrl: >-
+        https://app.aave.com/reserve-overview/?underlyingAsset=0x62C6E813b9589C3631Ba0Cdb013acdB8544038B7&marketName=AaveV3Ethereum
+      description: PT-USDe-27NOV2025 can be used as collateral to borrow USDC on Aave
+    - chainId: 1
+      address: '0x62C6E813b9589C3631Ba0Cdb013acdB8544038B7'
+      subtitle: USDT
+      integrationUrl: >-
+        https://app.aave.com/reserve-overview/?underlyingAsset=0x62C6E813b9589C3631Ba0Cdb013acdB8544038B7&marketName=AaveV3Ethereum
+      description: PT-USDe-27NOV2025 can be used as collateral to borrow USDT on Aave
+    - chainId: 1
+      address: '0xe6A934089BBEe34F832060CE98848359883749B3'
+      subtitle: USDC
+      integrationUrl: >-
+        https://app.aave.com/reserve-overview/?underlyingAsset=0xe6A934089BBEe34F832060CE98848359883749B3&marketName=AaveV3Ethereum
+      description: PT-sUSDE-27NOV2025 can be used as collateral to borrow USDC on Aave
+    - chainId: 1
+      address: '0xe6A934089BBEe34F832060CE98848359883749B3'
+      subtitle: USDT
+      integrationUrl: >-
+        https://app.aave.com/reserve-overview/?underlyingAsset=0xe6A934089BBEe34F832060CE98848359883749B3&marketName=AaveV3Ethereum
+      description: PT-sUSDE-27NOV2025 can be used as collateral to borrow USDT on Aave
+    - chainId: 9745
+      address: '0x93B544c330F60A2aa05ceD87aEEffB8D38FD8c9a'
+      subtitle: USDC
+      integrationUrl: >-
+        https://app.aave.com/reserve-overview/?underlyingAsset=0x93B544c330F60A2aa05ceD87aEEffB8D38FD8c9a&marketName=AaveV3Plasma
+      description: PT-USDe-15JAN2026 can be used as collateral to borrow USDC on Aave
+    - chainId: 9745
+      address: '0x93B544c330F60A2aa05ceD87aEEffB8D38FD8c9a'
+      subtitle: USDT
+      integrationUrl: >-
+        https://app.aave.com/reserve-overview/?underlyingAsset=0x93B544c330F60A2aa05ceD87aEEffB8D38FD8c9a&marketName=AaveV3Plasma
+      description: PT-USDe-15JAN2026 can be used as collateral to borrow USDT on Aave
+    - chainId: 9745
+      address: '0x02FCC4989B4C9D435b7ceD3fE1Ba4CF77BBb5Dd8'
+      subtitle: USDC
+      integrationUrl: >-
+        https://app.aave.com/reserve-overview/?underlyingAsset=0x02FCC4989B4C9D435b7ceD3fE1Ba4CF77BBb5Dd8&marketName=AaveV3Plasma
+      description: PT-sUSDE-15JAN2026 can be used as collateral to borrow USDC on Aave
+    - chainId: 9745
+      address: '0x02FCC4989B4C9D435b7ceD3fE1Ba4CF77BBb5Dd8'
+      subtitle: USDT
+      integrationUrl: >-
+        https://app.aave.com/reserve-overview/?underlyingAsset=0x02FCC4989B4C9D435b7ceD3fE1Ba4CF77BBb5Dd8&marketName=AaveV3Plasma
+      description: PT-sUSDE-15JAN2026 can be used as collateral to borrow USDT on Aave
   yt: []
   lp: []
