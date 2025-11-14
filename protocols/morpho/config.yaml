@@ -33,14 +33,6 @@ metadata:
         The PT-mHYPER-20NOV2025 is the asset used as collateral in a Morpho
         market with USDC as the loan token.
     - chainId: 1
-      address: '0x62c6e813b9589c3631ba0cdb013acdb8544038b7'
-      subtitle: USDC
-      integrationUrl: >-
-        https://app.morpho.org/market?id=0x534e7046c3aebaa0c6c363cdbeb9392fc87af71cc16862479403a198fe04b206&network=mainnet
-      description: >-
-        The PT-USDe-27NOV2025 is the asset used as collateral in a Morpho market
-        with USDC as the loan token.
-    - chainId: 1
       address: '0xb44cdbef3145c1c1e772e8228e1154c80e70618e'
       subtitle: USDC
       integrationUrl: >-
