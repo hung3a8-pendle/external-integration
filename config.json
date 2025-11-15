@@ -911,6 +911,24 @@
             "integrationUrl": "https://app.euler.finance/positions/0xaabc07a47d2a63a9b06a7924a0780c2f3cae7bf9/0x2daca71cb58285212dc05d65cfd4f59a82bc4cf6?network=ethereum",
             "description": "The PT-cUSDO-20NOV2025 is the asset used as collateral in an Euler market with eUSDe-6 as the loan token.",
             "subtitle": "USDe"
+          },
+          {
+            "chainId": 1,
+            "address": "0x41d49208a7e61eed06b3504262c54e7c5ff04bfc",
+            "integrationUrl": "https://app.euler.finance/borrow?collateralAsset=PT-mevBTC-25DEC2025&network=ethereum",
+            "description": "The PT-mevBTC-25DEC2025 can be used as collateral in Euler markets."
+          },
+          {
+            "chainId": 1,
+            "address": "0x2c543181871718c05bb191b8ce8f2a6538d72762",
+            "integrationUrl": "https://app.euler.finance/borrow?collateralAsset=PT-mMEV-29JAN2026&network=ethereum",
+            "description": "The PT-mMEV-29JAN2026 can be used as collateral in Euler markets."
+          },
+          {
+            "chainId": 1,
+            "address": "0x9a34eb848c06d438d8747060a383dd13cff33317",
+            "integrationUrl": "https://app.euler.finance/borrow?collateralAsset=PT-mEDGE-29JAN2026&network=ethereum",
+            "description": "The PT-mEDGE-29JAN2026 can be used as collateral in Euler markets."
           }
         ],
         "yt": [],
