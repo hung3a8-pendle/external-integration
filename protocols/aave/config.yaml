@@ -67,5 +67,29 @@ metadata:
       integrationUrl: >-
         https://app.aave.com/reserve-overview/?underlyingAsset=0x93b544c330f60a2aa05ced87aeeffb8d38fd8c9a&marketName=proto_plasma_v3
       description: PT-USDe-15JAN2026 can be used as collateral to borrow USDe on Aave
+    - chainId: 1
+      address: '0xe6a934089bbee34f832060ce98848359883749b3'
+      subtitle: USDtb
+      integrationUrl: >-
+        https://app.aave.com/reserve-overview/?underlyingAsset=0xe6a934089bbee34f832060ce98848359883749b3&marketName=proto_ethereum_v3
+      description: PT-sUSDE-27NOV2025 can be used as collateral to borrow USDtb on Aave
+    - chainId: 1
+      address: '0xe6a934089bbee34f832060ce98848359883749b3'
+      subtitle: USDS
+      integrationUrl: >-
+        https://app.aave.com/reserve-overview/?underlyingAsset=0xe6a934089bbee34f832060ce98848359883749b3&marketName=proto_ethereum_v3
+      description: PT-sUSDE-27NOV2025 can be used as collateral to borrow USDS on Aave
+    - chainId: 1
+      address: '0x62c6e813b9589c3631ba0cdb013acdb8544038b7'
+      subtitle: USDtb
+      integrationUrl: >-
+        https://app.aave.com/reserve-overview/?underlyingAsset=0x62c6e813b9589c3631ba0cdb013acdb8544038b7&marketName=proto_ethereum_v3
+      description: PT-USDe-27NOV2025 can be used as collateral to borrow USDtb on Aave
+    - chainId: 1
+      address: '0x62c6e813b9589c3631ba0cdb013acdb8544038b7'
+      subtitle: USDS
+      integrationUrl: >-
+        https://app.aave.com/reserve-overview/?underlyingAsset=0x62c6e813b9589c3631ba0cdb013acdb8544038b7&marketName=proto_ethereum_v3
+      description: PT-USDe-27NOV2025 can be used as collateral to borrow USDS on Aave
   yt: []
   lp: []
